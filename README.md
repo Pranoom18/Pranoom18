@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Pranoom Keerthi Rathna</h1>
-<h3 align="left">I' m currently working at Gloom Dev Pvt Ltd</h3>
+<h3 align="left">I' m looking to start my career</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranoom18&label=Profile%20views&color=0e75b6&style=flat" alt="pranoom18" /> </p>
 
